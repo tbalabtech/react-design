@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "name": "Lays",
+        "price": "15.00",
+        "sku": "SKU-001",
+        "category": "Grocery, Snacks",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisic elit eiusm tempor incidid ut labore et dolore magna aliqua. Ut enim ad minim venialo quis nostrud exercitation ullamco",
+        "avlQty": 10,
+        "image" : "https://bhn-product-image.s3.amazonaws.com/lays-600x600.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Surf Excel",
+        "price": "25.00",
+        "sku": "SKU-002",
+        "category": "Grocery, Washing, Clothes",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisic elit eiusm tempor incidid ut labore et dolore magna aliqua. Ut enim ad minim venialo quis nostrud exercitation ullamco",
+        "avlQty": 29,
+        "image" : "https://bhn-product-image.s3.amazonaws.com/surfexcel.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Seasons Oil",
+        "price": "150.00",
+        "sku": "SKU-003",
+        "category": "Grocery, Oil, Cooking",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisic elit eiusm tempor incidid ut labore et dolore magna aliqua. Ut enim ad minim venialo quis nostrud exercitation ullamco",
+        "avlQty": 0,
+        "image" : "https://bhn-product-image.s3.amazonaws.com/seasonsoil.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Protinex Junior",
+        "price": "200.00",
+        "sku": "SKU-004",
+        "category": "Milk, Grocery",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisic elit eiusm tempor incidid ut labore et dolore magna aliqua. Ut enim ad minim venialo quis nostrud exercitation ullamco",
+        "avlQty": 40,
+        "image" : "https://bhn-product-image.s3.amazonaws.com/protein.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Kelloggs",
+        "price": "125.00",
+        "sku": "SKU-005",
+        "category": "Grocery",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisic elit eiusm tempor incidid ut labore et dolore magna aliqua. Ut enim ad minim venialo quis nostrud exercitation ullamco",
+        "avlQty": 0,
+        "image" : "https://bhn-product-image.s3.amazonaws.com/kellogs.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Nestlé Everyday Dairy ",
+        "price": "105.00",
+        "sku": "SKU-006",
+        "category": "Milk, Grocery",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisic elit eiusm tempor incidid ut labore et dolore magna aliqua. Ut enim ad minim venialo quis nostrud exercitation ullamco",
+        "avlQty": 1,
+        "image" : "https://bhn-product-image.s3.amazonaws.com/everyday_miik.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Sunfeast Dark Fantasy",
+        "price": "25.00",
+        "sku": "SKU-007",
+        "category": "Biscuit, Grocery",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisic elit eiusm tempor incidid ut labore et dolore magna aliqua. Ut enim ad minim venialo quis nostrud exercitation ullamco",
+        "avlQty": 1,
+        "image" : "https://bhn-product-image.s3.amazonaws.com/biscuit.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Quaker Oats ",
+        "price": "45.00",
+        "sku": "SKU-008",
+        "category": "Grocery, Oats",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisic elit eiusm tempor incidid ut labore et dolore magna aliqua. Ut enim ad minim venialo quis nostrud exercitation ullamco",
+        "avlQty": 1,
+        "image" : "https://bhn-product-image.s3.amazonaws.com/oats.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Potato",
+        "price": "35.00",
+        "sku": "SKU-009",
+        "category": "Vegetable, Potato",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisic elit eiusm tempor incidid ut labore et dolore magna aliqua. Ut enim ad minim venialo quis nostrud exercitation ullamco",
+        "avlQty": 1,
+        "image" : "https://bhn-product-image.s3.amazonaws.com/potato.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Tomato",
+        "price": "60.00",
+        "sku": "SKU-010",
+        "category": "Vegetable, Tomato",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisic elit eiusm tempor incidid ut labore et dolore magna aliqua. Ut enim ad minim venialo quis nostrud exercitation ullamco",
+        "avlQty": 1,
+        "image" : "https://bhn-product-image.s3.amazonaws.com/tomato.jpg"
+    }
+]
